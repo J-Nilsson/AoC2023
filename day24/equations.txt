@@ -1,0 +1,3 @@
+x1 + t * vx1 = x2 + s * vx2
+y1 + t * vy1 = y2 + s * vy2
+
